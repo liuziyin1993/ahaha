@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aisile_article" />
+        <module name="aisile_base" />
+        <module name="aisile_common" />
+        <module name="aisile_gathering" />
+        <module name="aisile_qa" />
+        <module name="aisile_recruit" />
+        <module name="aisile_search" />
+        <module name="aisile_spit" />
+        <module name="aisile_user" />
+        <module name="demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="aisile_article" target="1.8" />
+      <module name="aisile_base" target="1.8" />
+      <module name="aisile_common" target="1.8" />
+      <module name="aisile_gathering" target="1.8" />
+      <module name="aisile_qa" target="1.8" />
+      <module name="aisile_recruit" target="1.8" />
+      <module name="aisile_search" target="1.8" />
+      <module name="aisile_sns" target="1.8" />
+      <module name="aisile_spit" target="1.8" />
+      <module name="aisile_user" target="1.8" />
+      <module name="demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

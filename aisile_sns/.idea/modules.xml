@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aisile_article/aisile_article.iml" filepath="$PROJECT_DIR$/aisile_article/aisile_article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aisile_base/aisile_base.iml" filepath="$PROJECT_DIR$/aisile_base/aisile_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aisile_common/aisile_common.iml" filepath="$PROJECT_DIR$/aisile_common/aisile_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aisile_gathering/aisile_gathering.iml" filepath="$PROJECT_DIR$/aisile_gathering/aisile_gathering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aisile_qa/aisile_qa.iml" filepath="$PROJECT_DIR$/aisile_qa/aisile_qa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aisile_recruit/aisile_recruit.iml" filepath="$PROJECT_DIR$/aisile_recruit/aisile_recruit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aisile_search/aisile_search.iml" filepath="$PROJECT_DIR$/aisile_search/aisile_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aisile_sns.iml" filepath="$PROJECT_DIR$/aisile_sns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aisile_spit/aisile_spit.iml" filepath="$PROJECT_DIR$/aisile_spit/aisile_spit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aisile_user/aisile_user.iml" filepath="$PROJECT_DIR$/aisile_user/aisile_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo.iml" filepath="$PROJECT_DIR$/../demo.iml" />
+    </modules>
+  </component>
+</project>

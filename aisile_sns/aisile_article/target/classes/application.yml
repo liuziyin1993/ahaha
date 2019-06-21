@@ -1,0 +1,16 @@
+server: 
+  port: 9004
+spring: 
+  application:  
+    name: aisile-article #指定服务名
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.48.130:3306/aisile_article?characterEncoding=UTF8
+    username: root
+    password: root
+  jpa: 
+    database: MySQL
+    show-sql: true
+  redis:
+    host: 192.168.48.130
+    # 10.211.55.20

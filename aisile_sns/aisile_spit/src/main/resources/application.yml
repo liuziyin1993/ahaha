@@ -1,0 +1,11 @@
+server:
+port: 9006
+spring:
+application:
+name:aisile_spit #指定服务名
+data:
+mongodb:
+host: 192.168.48.129
+database: spitdb
+redis:
+  host:192.168.48.129

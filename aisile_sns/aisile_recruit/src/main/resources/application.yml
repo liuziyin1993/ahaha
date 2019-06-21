@@ -1,0 +1,13 @@
+server: 
+  port: 9002
+spring: 
+  application:  
+    name: aisile-recruit #指定服务名
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.48.129:3306/aisile_recruit?characterEncoding=UTF8
+    username: root
+    password: root
+  jpa: 
+    database: MySQL
+    show-sql: true

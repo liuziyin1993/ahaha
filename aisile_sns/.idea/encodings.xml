@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.." charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aisile_article" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aisile_base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aisile_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aisile_gathering" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aisile_qa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aisile_recruit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aisile_search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aisile_spit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aisile_user" charset="UTF-8" />
+  </component>
+</project>

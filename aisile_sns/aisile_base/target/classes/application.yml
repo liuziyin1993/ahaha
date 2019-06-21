@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: aisile_base
+
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url:  jdbc:mysql://192.168.48.129:3306/aisile_base?characterEncoding=utf-8
+    username: root
+    password: root
+
+  jpa:
+    database: mysql
+    show-sql: true
+    generate-ddl: true
+
+
+server:
+  port: 9001
+
